@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.saludo {
+  font-size: 18px;
+  border-radius: 3em;
+  padding: 5px;
+  width: 350px;
+  background: transparent;
+  box-shadow: 0px 0px 15px #61dafb;
+  color: white;
+  border: none;
+  margin-bottom: 35px;
+}
+
+.verde {
+  border-radius: 3em;
+  background: green;
+  color: white;  
+}
+
+.rojo {
+  border-radius: 3em;
+  background: red;
+  color: white;  
+}
